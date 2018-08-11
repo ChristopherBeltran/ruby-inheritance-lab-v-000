@@ -10,7 +10,8 @@ def learn(tidbit)
 end 
 
 def knowledge
-  
+  @knowledge
+end 
 
 
 end
